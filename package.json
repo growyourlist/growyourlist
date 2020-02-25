@@ -1,0 +1,12 @@
+{
+  "name": "growyourlist",
+  "description": "Grow Your List CLI",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/growyourlist/growyourlist",
+  "author": "gyl-dev <gyl-dev@posteo.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "gyl-init": "^0.0.1"
+  }
+}
