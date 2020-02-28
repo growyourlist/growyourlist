@@ -1,7 +1,7 @@
 {
   "name": "growyourlist",
   "description": "Grow Your List CLI",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "bin": {
     "growyourlist": "src/setup.js"
   },
