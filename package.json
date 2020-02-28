@@ -1,9 +1,9 @@
 {
   "name": "growyourlist",
   "description": "Grow Your List CLI",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "bin": {
-    "growyourlist": "src/setup.js"
+    "growyourlist": "lib/setup.js"
   },
   "repository": "https://github.com/growyourlist/growyourlist",
   "author": "gyl-dev <gyl-dev@posteo.eu>",
