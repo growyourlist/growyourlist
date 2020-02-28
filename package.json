@@ -1,8 +1,8 @@
 {
   "name": "growyourlist",
   "description": "Grow Your List CLI",
-  "version": "0.0.2",
-  "main": "index.js",
+  "version": "0.0.4",
+  "bin": "node src/setup.js",
   "repository": "https://github.com/growyourlist/growyourlist",
   "author": "gyl-dev <gyl-dev@posteo.eu>",
   "license": "MIT",
