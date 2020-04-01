@@ -302,10 +302,10 @@ glob@^7.1.3:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-gyl-init@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/gyl-init/-/gyl-init-0.0.4.tgz#65db0b2f333ed85ab009d2563d66fe88817a30e0"
-  integrity sha512-W6HWLTOejzqGin7aT4MIL2QKNy9O8g8g1xNXYCvF6YGgdhvnuEFyBHu+r/yZyvbE9kUFY+4ODem8B7N0n6lMVg==
+gyl-init@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/gyl-init/-/gyl-init-0.0.5.tgz#fc3b975e8efe8ee31e83efcd77a6e21d97021bec"
+  integrity sha512-wnVhMWGbLKyvMdnjts4dd8gfbuU+Xk4A+/0MFOoWm8QhWgXfbk28sCGmXxMj3Qo3HSTG1/twafmqS5v99ajRbg==
   dependencies:
     adm-zip "^0.4.13"
     aws-sdk "^2.553.0"
