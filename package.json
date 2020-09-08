@@ -1,7 +1,7 @@
 {
 	"name": "growyourlist",
 	"description": "Grow Your List CLI",
-	"version": "0.0.20",
+	"version": "0.0.21",
 	"bin": {
 		"growyourlist": "lib/setup.js"
 	},
@@ -9,6 +9,6 @@
 	"author": "gyl-dev <gyl-dev@posteo.eu>",
 	"license": "MIT",
 	"dependencies": {
-		"gyl-init": "^0.0.11"
+		"gyl-init": "^0.0.12"
 	}
 }
